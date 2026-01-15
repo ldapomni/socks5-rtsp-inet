@@ -1,0 +1,538 @@
+2026/01/14 14:42:26 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 14:42:49 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 14:42:49 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=8.6.112.6%3A80
+2026/01/14 14:42:49 [INFO] Target set to: 8.6.112.6:80
+2026/01/14 14:42:49 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=8.6.112.6%3A80
+2026/01/14 14:42:49 [INFO] Connecting to target: 8.6.112.6:80
+2026/01/14 14:42:50 [ERROR] Target Read Error: read tcp 192.168.1.182:51371->8.6.112.6:80: use of closed network connection
+2026/01/14 14:53:02 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:8554
+2026/01/14 14:53:21 [FATAL] Failed to listen on 1080: listen tcp :1080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2026/01/14 14:53:27 [FATAL] Failed to listen on 1080: listen tcp :1080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2026/01/14 14:53:37 [FATAL] Failed to listen on 1080: listen tcp :1080: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2026/01/14 14:53:48 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:53:48 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:54:07 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 14:55:18 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:55:18 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:55:55 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:55:55 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:56:16 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:56:16 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:56:16 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 15:06:00 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 15:09:31 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 15:11:09 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 15:11:13 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:13 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:11:13 [INFO] Target set to: github.com:443
+2026/01/14 15:11:13 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:13 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:11:13 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:11:13 [INFO] Connecting to target: github.com:443
+2026/01/14 15:11:13 [INFO] Target set to: github.com:443
+2026/01/14 15:11:13 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:11:13 [INFO] Connecting to target: github.com:443
+2026/01/14 15:11:13 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:13 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:11:13 [INFO] Target set to: github.com:443
+2026/01/14 15:11:13 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:11:13 [INFO] Connecting to target: github.com:443
+2026/01/14 15:11:13 [ERROR] Target Read Error: read tcp 192.168.1.182:52048->140.82.121.3:443: use of closed network connection
+2026/01/14 15:11:13 [ERROR] Target Read Error: read tcp 192.168.1.182:52046->140.82.121.3:443: use of closed network connection
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: www.google.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.google.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: www.google.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.gstatic.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: www.gstatic.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.gstatic.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: www.gstatic.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=lh3.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: lh3.google.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=lh3.google.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: lh3.google.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=fonts.gstatic.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: fonts.gstatic.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=csp.withgoogle.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: csp.withgoogle.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=fonts.gstatic.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: fonts.gstatic.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=csp.withgoogle.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: csp.withgoogle.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=fonts.gstatic.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: fonts.gstatic.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=fonts.gstatic.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: fonts.gstatic.com:443
+2026/01/14 15:11:15 [ERROR] Target Read Error: read tcp 192.168.1.182:52067->64.233.161.94:443: use of closed network connection
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=lh3.googleusercontent.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: lh3.googleusercontent.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=lh3.googleusercontent.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: lh3.googleusercontent.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=ogads-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: ogads-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=ogads-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=waa-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: waa-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Connecting to target: ogads-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=waa-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: waa-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=waa-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: waa-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=waa-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Connecting to target: waa-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=ogads-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: ogads-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=ogads-pa.clients6.google.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: ogads-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:15 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.google.com%3A443
+2026/01/14 15:11:15 [INFO] Target set to: www.google.com:443
+2026/01/14 15:11:15 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.google.com%3A443
+2026/01/14 15:11:15 [INFO] Connecting to target: www.google.com:443
+2026/01/14 15:11:16 [ERROR] Target Read Error: read tcp 192.168.1.182:52085->142.251.1.104:443: use of closed network connection
+2026/01/14 15:11:16 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:16 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=accounts.google.com%3A443
+2026/01/14 15:11:16 [INFO] Target set to: accounts.google.com:443
+2026/01/14 15:11:16 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=accounts.google.com%3A443
+2026/01/14 15:11:16 [INFO] Connecting to target: accounts.google.com:443
+2026/01/14 15:11:16 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:16 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=play.google.com%3A443
+2026/01/14 15:11:16 [INFO] Target set to: play.google.com:443
+2026/01/14 15:11:16 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=play.google.com%3A443
+2026/01/14 15:11:16 [INFO] Connecting to target: play.google.com:443
+2026/01/14 15:11:16 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:16 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=play.google.com%3A443
+2026/01/14 15:11:16 [INFO] Target set to: play.google.com:443
+2026/01/14 15:11:16 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=play.google.com%3A443
+2026/01/14 15:11:16 [INFO] Connecting to target: play.google.com:443
+2026/01/14 15:11:16 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:16 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=play.google.com%3A443
+2026/01/14 15:11:16 [INFO] Target set to: play.google.com:443
+2026/01/14 15:11:16 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=play.google.com%3A443
+2026/01/14 15:11:16 [INFO] Connecting to target: play.google.com:443
+2026/01/14 15:11:16 [ERROR] Target Read Error: read tcp 192.168.1.182:52095->173.194.221.101:443: use of closed network connection
+2026/01/14 15:11:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=blog.min.io%3A443
+2026/01/14 15:11:19 [INFO] Target set to: blog.min.io:443
+2026/01/14 15:11:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=blog.min.io%3A443
+2026/01/14 15:11:19 [INFO] Connecting to target: blog.min.io:443
+2026/01/14 15:11:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=ogs.google.com%3A443
+2026/01/14 15:11:19 [INFO] Target set to: ogs.google.com:443
+2026/01/14 15:11:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=ogs.google.com%3A443
+2026/01/14 15:11:19 [INFO] Connecting to target: ogs.google.com:443
+2026/01/14 15:11:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.bay12games.com%3A80
+2026/01/14 15:11:19 [INFO] Target set to: www.bay12games.com:80
+2026/01/14 15:11:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.bay12games.com%3A80
+2026/01/14 15:11:19 [INFO] Connecting to target: www.bay12games.com:80
+2026/01/14 15:11:25 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52106: use of closed network connection
+2026/01/14 15:11:26 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:26 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=push.services.mozilla.com%3A443
+2026/01/14 15:11:26 [INFO] Target set to: push.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=push.services.mozilla.com%3A443
+2026/01/14 15:11:26 [INFO] Connecting to target: push.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:26 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=doodles.google%3A443
+2026/01/14 15:11:26 [INFO] Target set to: doodles.google:443
+2026/01/14 15:11:26 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=doodles.google%3A443
+2026/01/14 15:11:26 [INFO] Connecting to target: doodles.google:443
+2026/01/14 15:11:26 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:26 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=push.services.mozilla.com%3A443
+2026/01/14 15:11:26 [INFO] Target set to: push.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=push.services.mozilla.com%3A443
+2026/01/14 15:11:26 [INFO] Connecting to target: push.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:26 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=fonts.googleapis.com%3A443
+2026/01/14 15:11:26 [INFO] Target set to: fonts.googleapis.com:443
+2026/01/14 15:11:26 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=fonts.googleapis.com%3A443
+2026/01/14 15:11:26 [INFO] Connecting to target: fonts.googleapis.com:443
+2026/01/14 15:11:26 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:26 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.youtube.com%3A443
+2026/01/14 15:11:26 [INFO] Target set to: www.youtube.com:443
+2026/01/14 15:11:26 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.youtube.com%3A443
+2026/01/14 15:11:26 [INFO] Connecting to target: www.youtube.com:443
+2026/01/14 15:11:26 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:26 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=firefox.settings.services.mozilla.com%3A443
+2026/01/14 15:11:26 [INFO] Target set to: firefox.settings.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=firefox.settings.services.mozilla.com%3A443
+2026/01/14 15:11:26 [INFO] Connecting to target: firefox.settings.services.mozilla.com:443
+2026/01/14 15:11:27 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:27 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=content-signature-2.cdn.mozilla.net%3A443
+2026/01/14 15:11:27 [INFO] Target set to: content-signature-2.cdn.mozilla.net:443
+2026/01/14 15:11:27 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=content-signature-2.cdn.mozilla.net%3A443
+2026/01/14 15:11:27 [INFO] Connecting to target: content-signature-2.cdn.mozilla.net:443
+2026/01/14 15:11:27 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:27 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=doodles.google%3A443
+2026/01/14 15:11:27 [INFO] Target set to: doodles.google:443
+2026/01/14 15:11:27 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=doodles.google%3A443
+2026/01/14 15:11:27 [INFO] Connecting to target: doodles.google:443
+2026/01/14 15:11:27 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:27 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.googletagmanager.com%3A443
+2026/01/14 15:11:27 [INFO] Target set to: www.googletagmanager.com:443
+2026/01/14 15:11:27 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.googletagmanager.com%3A443
+2026/01/14 15:11:27 [INFO] Connecting to target: www.googletagmanager.com:443
+2026/01/14 15:11:27 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52133: use of closed network connection
+2026/01/14 15:11:28 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:28 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.google-analytics.com%3A443
+2026/01/14 15:11:28 [INFO] Target set to: www.google-analytics.com:443
+2026/01/14 15:11:28 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.google-analytics.com%3A443
+2026/01/14 15:11:28 [INFO] Connecting to target: www.google-analytics.com:443
+2026/01/14 15:11:31 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:31 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=doodles.google%3A443
+2026/01/14 15:11:31 [INFO] Target set to: doodles.google:443
+2026/01/14 15:11:31 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=doodles.google%3A443
+2026/01/14 15:11:31 [INFO] Connecting to target: doodles.google:443
+2026/01/14 15:11:31 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52142: use of closed network connection
+2026/01/14 15:11:38 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:38 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=i.ytimg.com%3A443
+2026/01/14 15:11:38 [INFO] Target set to: i.ytimg.com:443
+2026/01/14 15:11:38 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=i.ytimg.com%3A443
+2026/01/14 15:11:38 [INFO] Connecting to target: i.ytimg.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=googleads.g.doubleclick.net%3A443
+2026/01/14 15:11:40 [INFO] Target set to: googleads.g.doubleclick.net:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=googleads.g.doubleclick.net%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: googleads.g.doubleclick.net:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-q4fl6ns7.googlevideo.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: rr3---sn-q4fl6ns7.googlevideo.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-q4fl6ns7.googlevideo.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: rr3---sn-q4fl6ns7.googlevideo.com:443
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-q4fl6ns7.googlevideo.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: rr3---sn-q4fl6ns7.googlevideo.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-q4fl6ns7.googlevideo.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: rr3---sn-q4fl6ns7.googlevideo.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=returnyoutubedislikeapi.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: returnyoutubedislikeapi.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=returnyoutubedislikeapi.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: returnyoutubedislikeapi.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.youtube.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: www.youtube.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.youtube.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: www.youtube.com:443
+2026/01/14 15:11:40 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52159: use of closed network connection
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:40 [ERROR] Target Read Error: read tcp 192.168.1.182:52172->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:40 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52169: use of closed network connection
+2026/01/14 15:11:40 [ERROR] Target Read Error: read tcp 192.168.1.182:52173->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:40 [ERROR] Target Read Error: read tcp 192.168.1.182:52168->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52171: use of closed network connection
+2026/01/14 15:11:40 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52165: use of closed network connection
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:40 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:41 [ERROR] Target Read Error: read tcp 192.168.1.182:52182->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:41 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52179: use of closed network connection
+2026/01/14 15:11:41 [ERROR] Target Read Error: read tcp 192.168.1.182:52180->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:41 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52175: use of closed network connection
+2026/01/14 15:11:41 [ERROR] Target Read Error: read tcp 192.168.1.182:52181->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:41 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52177: use of closed network connection
+2026/01/14 15:11:41 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:41 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=youtube.com%3A443
+2026/01/14 15:11:41 [INFO] Target set to: youtube.com:443
+2026/01/14 15:11:41 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=youtube.com%3A443
+2026/01/14 15:11:41 [INFO] Connecting to target: youtube.com:443
+2026/01/14 15:11:41 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:41 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr1---sn-jvhnu5g-38me.googlevideo.com%3A443
+2026/01/14 15:11:41 [INFO] Target set to: rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:41 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr1---sn-jvhnu5g-38me.googlevideo.com%3A443
+2026/01/14 15:11:41 [INFO] Connecting to target: rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:42 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:42 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=static.doubleclick.net%3A443
+2026/01/14 15:11:42 [INFO] Target set to: static.doubleclick.net:443
+2026/01/14 15:11:42 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=static.doubleclick.net%3A443
+2026/01/14 15:11:42 [INFO] Connecting to target: static.doubleclick.net:443
+2026/01/14 15:11:42 [ERROR] RTSP Write Error: write tcp 127.0.0.1:8554->127.0.0.1:52187: wsasend: An established connection was aborted by the software in your host machine.
+2026/01/14 15:11:42 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:42 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr1---sn-jvhnu5g-38me.googlevideo.com%3A443
+2026/01/14 15:11:42 [INFO] Target set to: rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:42 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr1---sn-jvhnu5g-38me.googlevideo.com%3A443
+2026/01/14 15:11:42 [INFO] Connecting to target: rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:43 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:43 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr1---sn-jvhnu5g-38me.googlevideo.com%3A443
+2026/01/14 15:11:43 [INFO] Target set to: rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:43 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr1---sn-jvhnu5g-38me.googlevideo.com%3A443
+2026/01/14 15:11:43 [INFO] Connecting to target: rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:44 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:44 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:44 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:44 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:44 [ERROR] Target Read Error: read tcp 192.168.1.182:52205->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:44 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52199: use of closed network connection
+2026/01/14 15:11:44 [ERROR] Target Read Error: read tcp 192.168.1.182:52204->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:44 [ERROR] Target Read Error: read tcp 192.168.1.182:52206->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:44 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52203: use of closed network connection
+2026/01/14 15:11:44 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:44 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52201: use of closed network connection
+2026/01/14 15:11:44 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:44 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:44 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Target set to: yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yt3.ggpht.com%3A443
+2026/01/14 15:11:44 [INFO] Connecting to target: yt3.ggpht.com:443
+2026/01/14 15:11:44 [ERROR] Target Read Error: read tcp 192.168.1.182:52213->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:44 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52208: use of closed network connection
+2026/01/14 15:11:44 [ERROR] Target Read Error: read tcp 192.168.1.182:52214->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:44 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52211: use of closed network connection
+2026/01/14 15:11:44 [ERROR] Target Read Error: read tcp 192.168.1.182:52215->108.177.14.198:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:44 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52212: use of closed network connection
+2026/01/14 15:11:45 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:45 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Target set to: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:45 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Connecting to target: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Target set to: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Connecting to target: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [ERROR] Target Read Error: read tcp 192.168.1.182:52221->74.125.100.232:443: use of closed network connection
+2026/01/14 15:11:45 [ERROR] Target Read Error: read tcp 192.168.1.182:52220->74.125.100.232:443: use of closed network connection
+2026/01/14 15:11:45 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:45 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Target set to: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:45 [INFO] Connecting to target: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Target set to: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:45 [INFO] Connecting to target: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [ERROR] Target Read Error: read tcp 192.168.1.182:52226->74.125.100.232:443: use of closed network connection
+2026/01/14 15:11:45 [ERROR] Target Read Error: read tcp 192.168.1.182:52227->74.125.100.232:443: use of closed network connection
+2026/01/14 15:11:46 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:46 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:46 [INFO] Target set to: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:46 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:46 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:46 [INFO] Connecting to target: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:46 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:46 [INFO] Target set to: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:46 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=rr3---sn-5hne6nzd.googlevideo.com%3A443
+2026/01/14 15:11:46 [INFO] Connecting to target: rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:46 [ERROR] Target Read Error: read tcp 192.168.1.182:52233->74.125.100.232:443: use of closed network connection
+2026/01/14 15:11:46 [ERROR] Target Read Error: read tcp 192.168.1.182:52232->74.125.100.232:443: use of closed network connection
+2026/01/14 15:11:46 [ERROR] Target Read Error: read tcp 192.168.1.182:52045->140.82.121.3:443: use of closed network connection
+2026/01/14 15:11:49 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:49 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:11:49 [INFO] Target set to: medium.com:443
+2026/01/14 15:11:49 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:11:49 [INFO] Connecting to target: medium.com:443
+2026/01/14 15:11:49 [ERROR] Target Read Error: read tcp 192.168.1.182:52240->162.159.153.4:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:49 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52239: use of closed network connection
+2026/01/14 15:11:49 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:49 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:11:49 [INFO] Target set to: medium.com:443
+2026/01/14 15:11:49 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:11:49 [INFO] Connecting to target: medium.com:443
+2026/01/14 15:11:49 [ERROR] Target Read Error: read tcp 192.168.1.182:52243->162.159.153.4:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:11:49 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52242: use of closed network connection
+2026/01/14 15:11:49 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:49 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=yandex.cloud%3A443
+2026/01/14 15:11:49 [INFO] Target set to: yandex.cloud:443
+2026/01/14 15:11:49 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=yandex.cloud%3A443
+2026/01/14 15:11:49 [INFO] Connecting to target: yandex.cloud:443
+2026/01/14 15:11:49 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:49 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.golangprojects.com%3A80
+2026/01/14 15:11:49 [INFO] Target set to: www.golangprojects.com:80
+2026/01/14 15:11:49 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.golangprojects.com%3A80
+2026/01/14 15:11:49 [INFO] Connecting to target: www.golangprojects.com:80
+2026/01/14 15:11:50 [ERROR] Target Read Error: read tcp 192.168.1.182:52162->173.194.191.136:443: use of closed network connection
+2026/01/14 15:11:50 [ERROR] Target Read Error: read tcp 192.168.1.182:52161->173.194.191.136:443: use of closed network connection
+2026/01/14 15:11:50 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:11:50 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.golangprojects.com%3A443
+2026/01/14 15:11:50 [INFO] Target set to: www.golangprojects.com:443
+2026/01/14 15:11:50 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.golangprojects.com%3A443
+2026/01/14 15:11:50 [INFO] Connecting to target: www.golangprojects.com:443
+2026/01/14 15:12:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=golangweekly.com%3A443
+2026/01/14 15:12:19 [INFO] Target set to: golangweekly.com:443
+2026/01/14 15:12:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=golangweekly.com%3A443
+2026/01/14 15:12:19 [INFO] Connecting to target: golangweekly.com:443
+2026/01/14 15:12:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.reddit.com%3A443
+2026/01/14 15:12:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=golangnews.com%3A443
+2026/01/14 15:12:19 [INFO] Target set to: golangnews.com:443
+2026/01/14 15:12:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.reddit.com%3A443
+2026/01/14 15:12:19 [INFO] Target set to: www.reddit.com:443
+2026/01/14 15:12:19 [INFO] Target set to: www.reddit.com:443
+2026/01/14 15:12:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=golangnews.com%3A443
+2026/01/14 15:12:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.reddit.com%3A443
+2026/01/14 15:12:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.reddit.com%3A443
+2026/01/14 15:12:19 [INFO] Connecting to target: golangnews.com:443
+2026/01/14 15:12:19 [INFO] Connecting to target: www.reddit.com:443
+2026/01/14 15:12:19 [INFO] Connecting to target: www.reddit.com:443
+2026/01/14 15:12:19 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52259: use of closed network connection
+2026/01/14 15:12:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=cprss.s3.amazonaws.com%3A443
+2026/01/14 15:12:19 [INFO] Target set to: cprss.s3.amazonaws.com:443
+2026/01/14 15:12:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=cprss.s3.amazonaws.com%3A443
+2026/01/14 15:12:19 [INFO] Connecting to target: cprss.s3.amazonaws.com:443
+2026/01/14 15:12:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=golanggo.com%3A80
+2026/01/14 15:12:19 [INFO] Target set to: golanggo.com:80
+2026/01/14 15:12:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=golanggo.com%3A80
+2026/01/14 15:12:19 [INFO] Connecting to target: golanggo.com:80
+2026/01/14 15:12:20 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:20 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.symfonylab.com%3A80
+2026/01/14 15:12:20 [INFO] Target set to: www.symfonylab.com:80
+2026/01/14 15:12:20 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.symfonylab.com%3A80
+2026/01/14 15:12:20 [INFO] Connecting to target: www.symfonylab.com:80
+2026/01/14 15:12:20 [ERROR] Target Read Error: read tcp 192.168.1.182:52266->151.101.193.140:443: use of closed network connection
+2026/01/14 15:12:20 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:20 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.ixbt.com%3A80
+2026/01/14 15:12:20 [INFO] Target set to: www.ixbt.com:80
+2026/01/14 15:12:20 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.ixbt.com%3A80
+2026/01/14 15:12:20 [INFO] Connecting to target: www.ixbt.com:80
+2026/01/14 15:12:20 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:20 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=golang-examples.tumblr.com%3A443
+2026/01/14 15:12:20 [INFO] Target set to: golang-examples.tumblr.com:443
+2026/01/14 15:12:20 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=golang-examples.tumblr.com%3A443
+2026/01/14 15:12:20 [INFO] Connecting to target: golang-examples.tumblr.com:443
+2026/01/14 15:12:20 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:20 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.ixbt.com%3A443
+2026/01/14 15:12:20 [INFO] Target set to: www.ixbt.com:443
+2026/01/14 15:12:20 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.ixbt.com%3A443
+2026/01/14 15:12:20 [INFO] Connecting to target: www.ixbt.com:443
+2026/01/14 15:12:20 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:20 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.golanggo.com%3A80
+2026/01/14 15:12:20 [INFO] Target set to: www.golanggo.com:80
+2026/01/14 15:12:20 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.golanggo.com%3A80
+2026/01/14 15:12:20 [INFO] Connecting to target: www.golanggo.com:80
+2026/01/14 15:12:20 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:20 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.bay12games.com%3A80
+2026/01/14 15:12:20 [INFO] Target set to: www.bay12games.com:80
+2026/01/14 15:12:20 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.bay12games.com%3A80
+2026/01/14 15:12:20 [INFO] Connecting to target: www.bay12games.com:80
+2026/01/14 15:12:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=feeds.feedburner.com%3A80
+2026/01/14 15:12:21 [INFO] Target set to: feeds.feedburner.com:80
+2026/01/14 15:12:21 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=feeds.feedburner.com%3A80
+2026/01/14 15:12:21 [INFO] Connecting to target: feeds.feedburner.com:80
+2026/01/14 15:12:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=www.bay12games.com%3A80
+2026/01/14 15:12:21 [INFO] Target set to: www.bay12games.com:80
+2026/01/14 15:12:21 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=www.bay12games.com%3A80
+2026/01/14 15:12:21 [INFO] Connecting to target: www.bay12games.com:80
+2026/01/14 15:12:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=colonelcassad.livejournal.com%3A443
+2026/01/14 15:12:21 [INFO] Target set to: colonelcassad.livejournal.com:443
+2026/01/14 15:12:21 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=colonelcassad.livejournal.com%3A443
+2026/01/14 15:12:21 [INFO] Connecting to target: colonelcassad.livejournal.com:443
+2026/01/14 15:12:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=hnrss.org%3A443
+2026/01/14 15:12:21 [INFO] Target set to: hnrss.org:443
+2026/01/14 15:12:21 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=hnrss.org%3A443
+2026/01/14 15:12:21 [INFO] Connecting to target: hnrss.org:443
+2026/01/14 15:12:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=blog.codinghorror.com%3A443
+2026/01/14 15:12:21 [INFO] Target set to: blog.codinghorror.com:443
+2026/01/14 15:12:21 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=blog.codinghorror.com%3A443
+2026/01/14 15:12:21 [INFO] Connecting to target: blog.codinghorror.com:443
+2026/01/14 15:12:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:12:22 [INFO] Target set to: github.com:443
+2026/01/14 15:12:22 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:12:22 [INFO] Connecting to target: github.com:443
+2026/01/14 15:12:22 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:12:22 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:12:22 [INFO] Target set to: github.com:443
+2026/01/14 15:12:22 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=github.com%3A443
+2026/01/14 15:12:22 [INFO] Connecting to target: github.com:443
+2026/01/14 15:12:22 [ERROR] Target Read Error: read tcp 192.168.1.182:52314->140.82.121.3:443: use of closed network connection
+2026/01/14 15:12:24 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52275: use of closed network connection
+2026/01/14 15:12:25 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52270: use of closed network connection
+2026/01/14 15:12:26 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52291: use of closed network connection
+2026/01/14 15:12:26 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52298: use of closed network connection
+2026/01/14 15:12:29 [ERROR] Target Read Error: read tcp 192.168.1.182:52268->188.166.138.32:443: use of closed network connection
+2026/01/14 15:12:52 [ERROR] Target Read Error: read tcp 192.168.1.182:52315->140.82.121.3:443: use of closed network connection
+2026/01/14 15:12:55 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52248: use of closed network connection
+2026/01/14 15:13:00 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52251: use of closed network connection
+2026/01/14 15:13:11 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:13:11 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=group-speed-dial.fastaddons.com%3A443
+2026/01/14 15:13:11 [INFO] Target set to: group-speed-dial.fastaddons.com:443
+2026/01/14 15:13:11 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=group-speed-dial.fastaddons.com%3A443
+2026/01/14 15:13:11 [INFO] Connecting to target: group-speed-dial.fastaddons.com:443
+2026/01/14 15:13:12 [ERROR] Target Read Error: read tcp 192.168.1.182:52303->81.19.74.0:443: use of closed network connection
+2026/01/14 15:13:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:13:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:13:19 [INFO] Target set to: medium.com:443
+2026/01/14 15:13:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:13:19 [INFO] Connecting to target: medium.com:443
+2026/01/14 15:13:19 [ERROR] Target Read Error: read tcp 192.168.1.182:52325->162.159.153.4:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:13:19 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52324: use of closed network connection
+2026/01/14 15:13:19 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:13:19 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:13:19 [INFO] Target set to: medium.com:443
+2026/01/14 15:13:19 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy?target=medium.com%3A443
+2026/01/14 15:13:19 [INFO] Connecting to target: medium.com:443
+2026/01/14 15:13:19 [ERROR] Target Read Error: read tcp 192.168.1.182:52328->162.159.153.4:443: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:13:19 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52327: use of closed network connection
+2026/01/14 15:13:21 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52279: use of closed network connection
+2026/01/14 15:13:25 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52273: use of closed network connection
+2026/01/14 15:13:26 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52288: use of closed network connection
+2026/01/14 15:13:35 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:52282: use of closed network connection
+2026/01/14 15:13:38 [ERROR] Target Read Error: read tcp 192.168.1.182:52197->212.188.15.140:443: use of closed network connection
+2026/01/14 15:13:41 [ERROR] Target Read Error: read tcp 192.168.1.182:52194->212.188.15.140:443: use of closed network connection

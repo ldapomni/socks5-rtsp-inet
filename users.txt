@@ -1,0 +1,4 @@
+admin:secret
+user:pass
+test:$2a$10$unxZ8gjtWPhRXljPse8c/Odba1xxdN540hQTj3DATSnFzwboDyTMu:stat:admin
+vc-lda:$2a$10$.J9atIIPMWvS/B96VHbiY.zBY/dAE2ofFZJQVeNp.Lz6eTnrdOhd6:stat:admin

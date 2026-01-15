@@ -1,0 +1,1106 @@
+2026/01/14 14:42:26 [INFO] Loaded 3 users
+2026/01/14 14:42:26 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:8554
+2026/01/14 14:42:48 [ERROR] SOCKS handshake failed: no acceptable authentication methods
+2026/01/14 14:42:49 [INFO] New request to 8.6.112.6:80
+2026/01/14 14:42:50 [ERROR] RTSP Read Error: read tcp 127.0.0.1:51370->127.0.0.1:8554: use of closed network connection
+2026/01/14 14:52:27 [INFO] Loaded 3 users
+2026/01/14 14:52:27 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:1080
+2026/01/14 15:02:53 [INFO] Loaded 3 users
+2026/01/14 15:02:53 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:1080
+2026/01/14 15:02:55 [INFO] New request to www.google.com:443
+2026/01/14 15:02:55 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:02:55 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51683->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:02:55 [INFO] New request to www.google.com:443
+2026/01/14 15:02:55 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:02:55 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51685->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:02:56 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:02:56 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:02:56 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51687->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:02:56 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:02:56 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:02:56 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51689->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:02:56 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:02:56 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:02:56 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51691->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:02:56 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:02:56 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:02:56 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51693->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:05:57 [INFO] Loaded 3 users
+2026/01/14 15:05:57 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:1080
+2026/01/14 15:06:05 [INFO] New request to www.google.com:443
+2026/01/14 15:06:05 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:06:05 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51798->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:06:05 [INFO] New request to www.google.com:443
+2026/01/14 15:06:05 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:06:05 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51800->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:06:07 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:06:07 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:06:07 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51802->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:06:17 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:06:17 [ERROR] SOCKS handshake failed: unsupported socks version: 79
+2026/01/14 15:06:17 [ERROR] RTSP OPTIONS failed: read tcp 127.0.0.1:51805->127.0.0.1:1080: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:09:26 [INFO] Loaded 3 users
+2026/01/14 15:09:26 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:8544
+2026/01/14 15:09:40 [INFO] New request to www.google.com:443
+2026/01/14 15:09:40 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:40 [INFO] New request to www.google.com:443
+2026/01/14 15:09:40 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:44 [INFO] New request to www.google.com:443
+2026/01/14 15:09:44 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:44 [INFO] New request to www.google.com:443
+2026/01/14 15:09:44 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:49 [INFO] New request to blog.min.io:443
+2026/01/14 15:09:49 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:49 [INFO] New request to blog.min.io:443
+2026/01/14 15:09:49 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:49 [INFO] New request to www.bay12games.com:80
+2026/01/14 15:09:49 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:09:49 [INFO] New request to www.bay12games.com:80
+2026/01/14 15:09:49 [ERROR] Failed to dial RTSP server: dial tcp 127.0.0.1:8544: connectex: No connection could be made because the target machine actively refused it.
+2026/01/14 15:11:13 [INFO] Loaded 3 users
+2026/01/14 15:11:13 [INFO] SOCKS5 Proxy listening on :1080, forwarding to 127.0.0.1:8554
+2026/01/14 15:11:13 [INFO] New request to github.com:443
+2026/01/14 15:11:13 [INFO] New request to github.com:443
+2026/01/14 15:11:13 [INFO] New request to github.com:443
+2026/01/14 15:11:13 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52047->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:13 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52043->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:15 [INFO] New request to www.google.com:443
+2026/01/14 15:11:15 [INFO] New request to www.gstatic.com:443
+2026/01/14 15:11:15 [INFO] New request to lh3.google.com:443
+2026/01/14 15:11:15 [INFO] New request to fonts.gstatic.com:443
+2026/01/14 15:11:15 [INFO] New request to csp.withgoogle.com:443
+2026/01/14 15:11:15 [INFO] New request to fonts.gstatic.com:443
+2026/01/14 15:11:15 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52066->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:15 [INFO] New request to lh3.googleusercontent.com:443
+2026/01/14 15:11:15 [INFO] New request to ogads-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] New request to waa-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] New request to waa-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] New request to ogads-pa.clients6.google.com:443
+2026/01/14 15:11:15 [INFO] New request to www.google.com:443
+2026/01/14 15:11:16 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52084->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:16 [INFO] New request to accounts.google.com:443
+2026/01/14 15:11:16 [INFO] New request to play.google.com:443
+2026/01/14 15:11:16 [INFO] New request to play.google.com:443
+2026/01/14 15:11:16 [INFO] New request to play.google.com:443
+2026/01/14 15:11:16 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52094->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:19 [INFO] New request to blog.min.io:443
+2026/01/14 15:11:19 [INFO] New request to ogs.google.com:443
+2026/01/14 15:11:19 [INFO] New request to www.bay12games.com:80
+2026/01/14 15:11:26 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] New request to doodles.google:443
+2026/01/14 15:11:26 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:11:26 [INFO] New request to fonts.googleapis.com:443
+2026/01/14 15:11:26 [INFO] New request to www.youtube.com:443
+2026/01/14 15:11:26 [INFO] New request to firefox.settings.services.mozilla.com:443
+2026/01/14 15:11:27 [INFO] New request to content-signature-2.cdn.mozilla.net:443
+2026/01/14 15:11:27 [INFO] New request to doodles.google:443
+2026/01/14 15:11:27 [INFO] New request to www.googletagmanager.com:443
+2026/01/14 15:11:28 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:11:31 [INFO] New request to doodles.google:443
+2026/01/14 15:11:38 [INFO] New request to i.ytimg.com:443
+2026/01/14 15:11:40 [INFO] New request to googleads.g.doubleclick.net:443
+2026/01/14 15:11:40 [INFO] New request to rr3---sn-q4fl6ns7.googlevideo.com:443
+2026/01/14 15:11:40 [INFO] New request to rr3---sn-q4fl6ns7.googlevideo.com:443
+2026/01/14 15:11:40 [INFO] New request to returnyoutubedislikeapi.com:443
+2026/01/14 15:11:40 [INFO] New request to www.youtube.com:443
+2026/01/14 15:11:40 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:40 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:41 [INFO] New request to youtube.com:443
+2026/01/14 15:11:41 [INFO] New request to rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:42 [INFO] New request to static.doubleclick.net:443
+2026/01/14 15:11:42 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52187->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:42 [INFO] New request to rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:43 [INFO] New request to rr1---sn-jvhnu5g-38me.googlevideo.com:443
+2026/01/14 15:11:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:11:45 [INFO] New request to rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] New request to rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52219->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:45 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52218->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:45 [INFO] New request to rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [INFO] New request to rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:45 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52223->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:45 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52225->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:46 [INFO] New request to rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:46 [INFO] New request to rr3---sn-5hne6nzd.googlevideo.com:443
+2026/01/14 15:11:46 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52231->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:46 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52230->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:46 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52044->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:49 [INFO] New request to medium.com:443
+2026/01/14 15:11:49 [INFO] New request to medium.com:443
+2026/01/14 15:11:49 [INFO] New request to yandex.cloud:443
+2026/01/14 15:11:49 [INFO] New request to www.golangprojects.com:80
+2026/01/14 15:11:50 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52154->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:50 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52155->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:11:50 [INFO] New request to www.golangprojects.com:443
+2026/01/14 15:12:19 [INFO] New request to golangweekly.com:443
+2026/01/14 15:12:19 [INFO] New request to www.reddit.com:443
+2026/01/14 15:12:19 [INFO] New request to golangnews.com:443
+2026/01/14 15:12:19 [INFO] New request to www.reddit.com:443
+2026/01/14 15:12:19 [INFO] New request to cprss.s3.amazonaws.com:443
+2026/01/14 15:12:19 [INFO] New request to golanggo.com:80
+2026/01/14 15:12:20 [INFO] New request to www.symfonylab.com:80
+2026/01/14 15:12:20 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52264->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:12:20 [INFO] New request to www.ixbt.com:80
+2026/01/14 15:12:20 [INFO] New request to golang-examples.tumblr.com:443
+2026/01/14 15:12:20 [INFO] New request to www.ixbt.com:443
+2026/01/14 15:12:20 [INFO] New request to www.golanggo.com:80
+2026/01/14 15:12:20 [INFO] New request to www.bay12games.com:80
+2026/01/14 15:12:21 [INFO] New request to feeds.feedburner.com:80
+2026/01/14 15:12:21 [INFO] New request to www.bay12games.com:80
+2026/01/14 15:12:21 [INFO] New request to colonelcassad.livejournal.com:443
+2026/01/14 15:12:21 [INFO] New request to hnrss.org:443
+2026/01/14 15:12:21 [INFO] New request to blog.codinghorror.com:443
+2026/01/14 15:12:21 [INFO] New request to github.com:443
+2026/01/14 15:12:22 [INFO] New request to github.com:443
+2026/01/14 15:12:22 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52313->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:12:29 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52263->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:12:52 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52311->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:13:11 [INFO] New request to group-speed-dial.fastaddons.com:443
+2026/01/14 15:13:12 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52302->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:13:19 [INFO] New request to medium.com:443
+2026/01/14 15:13:19 [INFO] New request to medium.com:443
+2026/01/14 15:13:38 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52196->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:13:41 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52193->127.0.0.1:8554: use of closed network connection
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52097->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52245->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52054->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52100->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52079->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52074->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52069->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52118->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52073->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52062->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52121->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52061->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52126->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52057->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52130->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52050->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52091->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52124->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52103->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52262->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52088->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52136->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52139->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52150->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52080->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52147->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52115->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52184->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52157->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52190->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52112->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52305->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52308->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52320->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52284->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:01 [ERROR] RTSP Read Error: read tcp 127.0.0.1:52296->127.0.0.1:8554: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:14:24 [INFO] Loaded 3 users
+2026/01/14 15:14:24 [INFO] SOCKS5 Proxy listening on :1080, forwarding to ldawrk.undo.it:8554
+2026/01/14 15:14:42 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:14:42 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:14:49 [INFO] New request to medium.com:443
+2026/01/14 15:14:49 [INFO] New request to medium.com:443
+2026/01/14 15:15:03 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:15:03 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:15:10 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:15:10 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:15:10 [INFO] New request to medium.com:443
+2026/01/14 15:15:10 [INFO] New request to medium.com:443
+2026/01/14 15:15:31 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:15:31 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:15:41 [INFO] New request to chat.openai.com:443
+2026/01/14 15:15:42 [INFO] New request to chat.openai.com:443
+2026/01/14 15:15:42 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:15:43 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:15:52 [INFO] New request to gemini.google.com:443
+2026/01/14 15:15:52 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:15:52 [INFO] New request to gemini.google.com:443
+2026/01/14 15:15:52 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:15:55 [INFO] New request to gemini.google.com:443
+2026/01/14 15:15:56 [INFO] New request to gemini.google.com:443
+2026/01/14 15:16:00 [INFO] New request to gemini.google.com:443
+2026/01/14 15:16:00 [INFO] New request to gemini.google.com:443
+2026/01/14 15:16:02 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:03 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:03 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:04 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:13 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:13 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:13 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:13 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:13 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:16:13 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:16:14 [INFO] New request to safebrowsing.googleapis.com:443
+2026/01/14 15:16:14 [INFO] New request to safebrowsing.googleapis.com:443
+2026/01/14 15:16:16 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:17 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:19 [INFO] New request to profile.accounts.firefox.com:443
+2026/01/14 15:16:19 [INFO] New request to api.accounts.firefox.com:443
+2026/01/14 15:16:19 [INFO] New request to profile.accounts.firefox.com:443
+2026/01/14 15:16:19 [INFO] New request to api.accounts.firefox.com:443
+2026/01/14 15:16:21 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:21 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:21 [INFO] New request to gemini.google.com:443
+2026/01/14 15:16:21 [INFO] New request to gemini.google.com:443
+2026/01/14 15:16:34 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:34 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:16:34 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:34 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:16:35 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:35 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:40 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:40 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:40 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:40 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:40 [INFO] New request to profile.accounts.firefox.com:443
+2026/01/14 15:16:40 [INFO] New request to api.accounts.firefox.com:443
+2026/01/14 15:16:40 [INFO] New request to profile.accounts.firefox.com:443
+2026/01/14 15:16:40 [INFO] New request to api.accounts.firefox.com:443
+2026/01/14 15:16:42 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:42 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:55 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:55 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:16:55 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:16:56 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:17:01 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:01 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:01 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:01 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:16 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:17 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:25 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:17:26 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:17:46 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:17:47 [ERROR] Failed to dial RTSP server: dial tcp 89.22.239.61:8554: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+2026/01/14 15:18:19 [INFO] New request to chat.openai.com:443
+2026/01/14 15:18:19 [INFO] New request to chat.openai.com:443
+2026/01/14 15:18:19 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52476->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:19 [INFO] New request to chatgpt.com:443
+2026/01/14 15:18:19 [INFO] New request to chatgpt.com:443
+2026/01/14 15:18:20 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52481->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:21 [INFO] New request to ab.chatgpt.com:443
+2026/01/14 15:18:21 [INFO] New request to ab.chatgpt.com:443
+2026/01/14 15:18:21 [INFO] New request to ab.chatgpt.com:443
+2026/01/14 15:18:21 [INFO] New request to ab.chatgpt.com:443
+2026/01/14 15:18:21 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52486->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:21 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52488->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:22 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52490->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:22 [INFO] New request to ws.chatgpt.com:443
+2026/01/14 15:18:22 [INFO] New request to chatgpt.com:443
+2026/01/14 15:18:22 [INFO] New request to lh3.googleusercontent.com:443
+2026/01/14 15:18:22 [INFO] New request to ws.chatgpt.com:443
+2026/01/14 15:18:22 [INFO] New request to chatgpt.com:443
+2026/01/14 15:18:22 [INFO] New request to lh3.googleusercontent.com:443
+2026/01/14 15:18:22 [INFO] New request to ws.chatgpt.com:443
+2026/01/14 15:18:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52498->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:23 [INFO] New request to ws.chatgpt.com:443
+2026/01/14 15:18:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52500->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52504->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52494->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52508->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:41 [INFO] New request to www.youtube.com:443
+2026/01/14 15:18:41 [INFO] New request to www.youtube.com:443
+2026/01/14 15:18:41 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52512->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:41 [INFO] New request to i.ytimg.com:443
+2026/01/14 15:18:42 [INFO] New request to i.ytimg.com:443
+2026/01/14 15:18:42 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52516->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:43 [INFO] New request to googleads.g.doubleclick.net:443
+2026/01/14 15:18:43 [INFO] New request to googleads.g.doubleclick.net:443
+2026/01/14 15:18:43 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:43 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:43 [INFO] New request to www.youtube.com:443
+2026/01/14 15:18:43 [INFO] New request to returnyoutubedislikeapi.com:443
+2026/01/14 15:18:43 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:43 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:43 [INFO] New request to returnyoutubedislikeapi.com:443
+2026/01/14 15:18:43 [INFO] New request to www.youtube.com:443
+2026/01/14 15:18:43 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52520->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [ERROR] SOCKS handshake failed: read tcp 127.0.0.1:1080->127.0.0.1:52537: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52535->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52536->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [INFO] New request to www.gstatic.com:443
+2026/01/14 15:18:44 [ERROR] SOCKS handshake failed: read tcp 127.0.0.1:1080->127.0.0.1:52540: wsarecv: An established connection was aborted by the software in your host machine.
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52524->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52522->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:18:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:18:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:18:44 [INFO] New request to www.gstatic.com:443
+2026/01/14 15:18:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:18:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:18:44 [INFO] New request to yt3.ggpht.com:443
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52532->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52531->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52548->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:45 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:45 [INFO] New request to rr2---sn-4g5lzns7.googlevideo.com:443
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52546->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52544->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52553->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52552->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52554->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [INFO] New request to rr2---sn-4g5lzns7.googlevideo.com:443
+2026/01/14 15:18:45 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:45 [INFO] New request to rr4---sn-q4fl6nlz.googlevideo.com:443
+2026/01/14 15:18:45 [INFO] New request to fonts.gstatic.com:443
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52560->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [INFO] New request to rr2---sn-4g5lzns7.googlevideo.com:443
+2026/01/14 15:18:45 [INFO] New request to fonts.gstatic.com:443
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52564->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [INFO] New request to rr2---sn-4g5lzns7.googlevideo.com:443
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52557->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52558->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52572->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:47 [INFO] New request to tpc.googlesyndication.com:443
+2026/01/14 15:18:47 [INFO] New request to tpc.googlesyndication.com:443
+2026/01/14 15:18:47 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52578->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:51 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52566->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:51 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52565->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:18:52 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52574->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:06 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:06 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52585->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:06 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to www.googletagmanager.com:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52587->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52589->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to www.googletagmanager.com:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [INFO] New request to static.2ip.io:443
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52604->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52619->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52626->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52624->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52621->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52622->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52625->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52623->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52627->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52620->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52629->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52609->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52599->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52601->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52598->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:08 [INFO] New request to get-v6.2ip.io:443
+2026/01/14 15:19:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52600->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52602->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:08 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:08 [INFO] New request to get-v6.2ip.io:443
+2026/01/14 15:19:08 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:08 [INFO] New request to www.google.co.uk:443
+2026/01/14 15:19:08 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:19:08 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:19:08 [INFO] New request to www.google.co.uk:443
+2026/01/14 15:19:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52633->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:08 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:19:08 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:19:08 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:19:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52637->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:08 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:19:08 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:19:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52645->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [INFO] New request to stats.g.doubleclick.net:443
+2026/01/14 15:19:09 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52650->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52649->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52651->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52654->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52655->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:19:09 [INFO] New request to stats.g.doubleclick.net:443
+2026/01/14 15:19:09 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52663->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52662->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:09 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:19:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52667->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:10 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:19:10 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:19:10 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:19:10 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:19:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52670->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52674->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52675->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:10 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:19:11 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:19:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52679->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:11 [INFO] New request to ep2.adtrafficquality.google:443
+2026/01/14 15:19:11 [INFO] New request to ep2.adtrafficquality.google:443
+2026/01/14 15:19:12 [INFO] New request to fonts.googleapis.com:443
+2026/01/14 15:19:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52683->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:12 [INFO] New request to www.google.com:443
+2026/01/14 15:19:12 [INFO] New request to fonts.googleapis.com:443
+2026/01/14 15:19:12 [INFO] New request to www.google.com:443
+2026/01/14 15:19:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52689->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52691->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:13 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:19:13 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:19:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52695->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52635->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:16 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:16 [INFO] New request to 2ip.io:443
+2026/01/14 15:19:17 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52698->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:17 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52700->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:18 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52704->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:19 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:19 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52708->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:21 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:21 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:22 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:22 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52714->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:22 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:22 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:22 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52718->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:23 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:23 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52722->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:23 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:24 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:24 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52728->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:24 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:25 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52730->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:25 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:25 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:25 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:25 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52736->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:26 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:26 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:26 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52740->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:26 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:27 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52744->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:27 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:28 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52746->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:29 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52751->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:29 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:30 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:30 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:30 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52757->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:30 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:31 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:31 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52761->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:31 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:32 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52763->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:33 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:33 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:35 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:35 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52769->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:35 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:36 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52755->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:36 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:36 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52773->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:36 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:37 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:37 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52777->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:37 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:37 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:37 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52781->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:38 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52785->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:39 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52789->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:39 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52793->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:40 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:40 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52797->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:40 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:40 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:40 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52801->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:41 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52805->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:42 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:42 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52809->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:42 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:42 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:42 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52813->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:42 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:43 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:43 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52817->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:43 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:43 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:43 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52821->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:44 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:44 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:44 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52825->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:44 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:45 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52829->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:45 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:45 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52833->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:45 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:46 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:46 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52837->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:46 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:46 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:47 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52841->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:47 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:47 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:47 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52845->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:47 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:48 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:48 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52849->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:48 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:48 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:48 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52853->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:49 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:49 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:49 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52857->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:49 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:50 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:50 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52861->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:50 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:51 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52865->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:51 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:51 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:52 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52869->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:53 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:53 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:54 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52873->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:54 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:54 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:56 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52877->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:56 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:56 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:57 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52881->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:57 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:58 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:59 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52885->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:19:59 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:19:59 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:00 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52889->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:01 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:01 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52859->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52851->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52871->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:01 [INFO] New request to graph.facebook.com:443
+2026/01/14 15:20:02 [INFO] New request to graph.facebook.com:443
+2026/01/14 15:20:02 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52893->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:02 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:02 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52899->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:02 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:02 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52903->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:03 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:03 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52907->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:03 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52911->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52915->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:05 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:05 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52919->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:05 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:05 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52923->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52927->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52931->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52935->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:08 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52939->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:08 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:08 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52943->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52947->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:10 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52951->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:10 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:10 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52955->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52959->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52963->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52967->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:13 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52971->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:13 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:20:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52975->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:26 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:20:26 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:20:26 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:20:27 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52984->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:27 [INFO] New request to push.services.mozilla.com:443
+2026/01/14 15:20:27 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52988->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:27 [INFO] New request to firefox.settings.services.mozilla.com:443
+2026/01/14 15:20:28 [INFO] New request to firefox.settings.services.mozilla.com:443
+2026/01/14 15:20:28 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52992->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:20:46 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52570->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52474->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52496->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52492->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:16 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52479->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:21 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52484->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:34 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52528->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:35 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52539->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:37 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52542->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:37 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52514->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:38 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52576->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:43 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52510->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:58 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52605->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:59 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52658->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:59 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52639->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:21:59 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52643->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:02 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52687->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:02 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52685->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52568->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:05 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52607->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52677->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52659->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52518->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52681->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52671->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52665->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52642->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52702->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52693->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:53 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52895->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:22:53 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52593->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:23:17 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52982->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:23:18 [ERROR] RTSP Read Error: read tcp 192.168.1.182:52990->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:29:54 [INFO] Loaded 3 users
+2026/01/14 15:29:54 [INFO] SOCKS5 Proxy listening on :1080, forwarding to ldawrk.undo.it:8554
+2026/01/14 15:29:54 [INFO] New request to 2ip.io:443
+2026/01/14 15:30:00 [INFO] New request to www.google.co.uk:443
+2026/01/14 15:30:00 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:00 [INFO] New request to 2ip.io:443
+2026/01/14 15:30:00 [INFO] New request to www.google.co.uk:443
+2026/01/14 15:30:00 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:00 [INFO] New request to 2ip.io:443
+2026/01/14 15:30:01 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53408->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53410->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:01 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:30:01 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:01 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53406->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53412->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:01 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:01 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53420->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53424->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:01 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:30:01 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53423->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:02 [INFO] New request to googleads.g.doubleclick.net:443
+2026/01/14 15:30:02 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:30:02 [INFO] New request to googleads.g.doubleclick.net:443
+2026/01/14 15:30:02 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53430->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:02 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53432->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:02 [INFO] New request to fonts.googleapis.com:443
+2026/01/14 15:30:02 [INFO] New request to fonts.googleapis.com:443
+2026/01/14 15:30:03 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:30:03 [INFO] New request to fonts.gstatic.com:443
+2026/01/14 15:30:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53436->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:03 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:30:03 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:30:03 [INFO] New request to fonts.gstatic.com:443
+2026/01/14 15:30:03 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:03 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:30:03 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53445->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53446->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:04 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:30:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53450->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:04 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:30:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53452->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53458->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:04 [INFO] New request to ep2.adtrafficquality.google:443
+2026/01/14 15:30:04 [INFO] New request to www.google.com:443
+2026/01/14 15:30:04 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53460->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:04 [INFO] New request to ep2.adtrafficquality.google:443
+2026/01/14 15:30:04 [INFO] New request to www.google.com:443
+2026/01/14 15:30:05 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:05 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53469->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:05 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53470->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:05 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:05 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53472->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:05 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:05 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:30:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53476->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:06 [INFO] New request to ep1.adtrafficquality.google:443
+2026/01/14 15:30:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53482->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:06 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53484->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:06 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53488->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:07 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:07 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53492->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:08 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:08 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:08 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53496->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:08 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53500->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:09 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53504->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:09 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:10 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53508->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:10 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:10 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53512->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53516->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:11 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53520->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53524->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:12 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:13 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53528->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:13 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:13 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:13 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53532->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:14 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:14 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:14 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53536->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:14 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:15 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:15 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53540->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:15 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:15 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:15 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53544->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:15 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:16 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:16 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53548->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:16 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:16 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:16 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53552->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:17 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:17 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:17 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53556->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:17 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:18 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53560->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:18 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53564->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:18 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:19 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:19 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53569->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:19 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:19 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:19 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53573->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:20 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:20 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:20 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53577->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:20 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:21 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:21 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53581->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:21 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:21 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:21 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53585->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:21 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:22 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:22 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53589->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:22 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:22 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:22 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53593->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:23 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:23 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:23 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53597->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:23 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:24 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:24 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53601->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:24 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:24 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:24 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53605->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:24 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:25 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:25 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53609->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:25 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:25 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:26 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53613->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:26 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:26 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:26 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53618->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:26 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:27 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:27 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53624->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:27 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:27 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:27 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53628->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:28 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53632->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:28 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:29 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53636->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:29 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:29 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:29 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53640->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:29 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:30 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:30 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53644->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:30 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:30 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:30 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53648->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:31 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:31 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:31 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53652->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:31 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:32 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:32 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53656->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:32 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:32 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:32 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53660->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:32 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:33 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:33 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53664->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:33 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:33 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:34 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53668->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:34 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:34 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:34 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53673->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:34 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:35 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:35 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53677->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:35 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:35 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:35 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53681->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:36 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:36 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:36 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53685->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:36 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:37 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:37 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53690->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:37 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:37 [INFO] New request to graph.facebook.com:443
+2026/01/14 15:30:37 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:37 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53694->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:37 [INFO] New request to graph.facebook.com:443
+2026/01/14 15:30:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:38 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53700->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:38 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53702->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:38 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:39 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53706->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:39 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53710->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:39 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:40 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:40 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53714->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:40 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:40 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:40 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53718->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:41 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53722->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:41 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:42 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53726->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:30:42 [INFO] New request to server-1183.2ipcore.com:8002
+2026/01/14 15:30:42 [ERROR] RTSP Read Error: read tcp 192.168.1.182:53730->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:08 [INFO] Loaded 3 users
+2026/01/14 15:40:08 [INFO] SOCKS5 Proxy listening on :1080, forwarding to ldawrk.undo.it:8554
+2026/01/14 15:40:08 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:08 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:19 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54255->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:19 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54256->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:19 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:20 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:26 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:40:26 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:40:33 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54261->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:33 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54263->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:33 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:33 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:40:33 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:33 [INFO] New request to data-e5.brmtr.org:443
+2026/01/14 15:40:51 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54274->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:51 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54269->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:51 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:52 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:53 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54283->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:57 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54285->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:57 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:57 [INFO] New request to 2ip.io:443
+2026/01/14 15:40:58 [INFO] New request to ads.mozilla.org:443
+2026/01/14 15:40:58 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54265->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:58 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54267->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:40:58 [INFO] New request to ads.mozilla.org:443
+2026/01/14 15:41:00 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54289->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:03 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54291->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:03 [INFO] New request to 2ip.io:443
+2026/01/14 15:41:04 [INFO] New request to 2ip.io:443
+2026/01/14 15:41:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54275->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:04 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54271->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:04 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:41:05 [INFO] New request to www.google-analytics.com:443
+2026/01/14 15:41:18 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54299->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:18 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54297->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:18 [INFO] New request to www.google.com:443
+2026/01/14 15:41:18 [INFO] New request to www.google.com:443
+2026/01/14 15:41:19 [INFO] New request to 2ip.io:443
+2026/01/14 15:41:19 [INFO] New request to 2ip.io:443
+2026/01/14 15:41:20 [INFO] New request to github.com:443
+2026/01/14 15:41:20 [INFO] New request to github.com:443
+2026/01/14 15:41:20 [INFO] New request to blog.min.io:443
+2026/01/14 15:41:20 [INFO] New request to blog.min.io:443
+2026/01/14 15:41:20 [INFO] New request to github.com:443
+2026/01/14 15:41:20 [INFO] New request to github.com:443
+2026/01/14 15:41:25 [INFO] New request to static.2ip.io:443
+2026/01/14 15:41:25 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:41:25 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:41:25 [INFO] New request to graph.facebook.com:443
+2026/01/14 15:41:25 [INFO] New request to static.2ip.io:443
+2026/01/14 15:41:25 [INFO] New request to graph.facebook.com:443
+2026/01/14 15:41:25 [INFO] New request to pagead2.googlesyndication.com:443
+2026/01/14 15:41:25 [INFO] New request to fundingchoicesmessages.google.com:443
+2026/01/14 15:41:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54323->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54324->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:45 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54321->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:45 [INFO] New request to github.com:443
+2026/01/14 15:41:45 [INFO] New request to github.com:443
+2026/01/14 15:41:45 [INFO] New request to github.com:443
+2026/01/14 15:41:45 [INFO] New request to github.com:443
+2026/01/14 15:41:46 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54303->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:46 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54301->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:46 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54293->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:46 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54295->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:41:47 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54357->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54356->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54360->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:10 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54361->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:10 [INFO] New request to github.com:443
+2026/01/14 15:42:10 [INFO] New request to github.com:443
+2026/01/14 15:42:10 [INFO] New request to github.com:443
+2026/01/14 15:42:10 [INFO] New request to github.com:443
+2026/01/14 15:42:10 [INFO] New request to github.com:443
+2026/01/14 15:42:10 [INFO] New request to github.com:443
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54332->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54345->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54330->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54348->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54346->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54318->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54316->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54314->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54312->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54340->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54336->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54338->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [INFO] New request to 2ip.io:443
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54331->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54337->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54347->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:11 [INFO] New request to 2ip.io:443
+2026/01/14 15:42:11 [INFO] New request to 2ip.io:443
+2026/01/14 15:42:11 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54375->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:12 [ERROR] RTSP Read Error: read tcp 192.168.1.182:54367->89.22.239.61:8554: use of closed network connection
+2026/01/14 15:42:12 [INFO] New request to github.com:443
+2026/01/14 15:42:12 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:42:12 [INFO] New request to github.com:443
+2026/01/14 15:42:12 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to 2ip.io:443
+2026/01/14 15:42:19 [INFO] New request to 2ip.io:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to github.com:443
+2026/01/14 15:42:19 [INFO] New request to region1.analytics.google.com:443
+2026/01/14 15:42:53 [INFO] Loaded 3 users
+2026/01/14 15:42:53 [INFO] Connecting to RTSP server: ldawrk.undo.it:8554
+2026/01/14 15:42:54 [INFO] SOCKS5 Proxy listening on :1080, forwarding via RTSP ldawrk.undo.it:8554
+2026/01/14 15:42:54 [INFO] New request to golangnews.com:443
+2026/01/14 15:42:54 [INFO] New request to yandex.cloud:443
+2026/01/14 15:42:54 [INFO] New request to www.golangprojects.com:80
+2026/01/14 15:42:54 [INFO] New request to www.reddit.com:443
+2026/01/14 15:42:54 [INFO] New request to golangnews.com:443
+2026/01/14 15:42:54 [INFO] New request to yandex.cloud:443
+2026/01/14 15:42:54 [INFO] New request to www.golangprojects.com:80
+2026/01/14 15:42:54 [INFO] New request to www.reddit.com:443
+2026/01/14 15:42:57 [INFO] New request to www.google.com:443
+2026/01/14 15:43:02 [INFO] New request to www.google.com:443
+2026/01/14 15:43:12 [INFO] New request to www.google.com:443
+2026/01/14 15:43:15 [INFO] New request to golanggo.com:80
+2026/01/14 15:43:17 [INFO] New request to www.symfonylab.com:80
+2026/01/14 15:43:17 [INFO] New request to www.ixbt.com:80
+2026/01/14 15:43:17 [INFO] New request to golang-examples.tumblr.com:443
+2026/01/14 15:43:22 [INFO] New request to golang-examples.tumblr.com:443
+2026/01/14 15:43:23 [INFO] New request to golang-examples.tumblr.com:443
+2026/01/14 15:43:27 [INFO] New request to www.ixbt.com:80
+2026/01/14 15:43:32 [INFO] New request to www.reddit.com:443
+2026/01/14 15:43:37 [INFO] New request to www.ixbt.com:80
+2026/01/14 15:43:40 [INFO] New request to www.bay12games.com:80
+2026/01/14 15:43:42 [INFO] New request to feeds.feedburner.com:80
+2026/01/14 15:43:42 [INFO] New request to www.bay12games.com:80

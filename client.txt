@@ -1,0 +1,390 @@
+2026/01/14 15:54:32 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 15:54:48 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 15:55:18 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 15:55:21 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:55:21 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:55:21 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:55:21 [INFO] Starting Tunnel Session
+2026/01/14 15:55:22 [INFO] Proxy Request: [927739566] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [1103179211] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [481163012] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [262653354] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [1246178670] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [1098113804] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [631257062] -> github.com:443
+2026/01/14 15:55:22 [INFO] Proxy Request: [670780613] -> github.com:443
+2026/01/14 15:55:30 [INFO] Proxy Request: [152633040] -> www.google.com:443
+2026/01/14 15:55:40 [INFO] Proxy Request: [2133295829] -> www.google.com:443
+2026/01/14 15:55:49 [INFO] Proxy Request: [1839942222] -> github.com:443
+2026/01/14 15:55:49 [INFO] Proxy Request: [827973385] -> github.com:443
+2026/01/14 15:55:49 [INFO] Proxy Request: [1902127210] -> github.com:443
+2026/01/14 15:55:49 [INFO] Proxy Request: [1196331441] -> github.com:443
+2026/01/14 15:55:50 [INFO] Proxy Request: [1388963101] -> medium.com:443
+2026/01/14 15:55:50 [INFO] Proxy Request: [676250555] -> www.bay12games.com:80
+2026/01/14 15:55:50 [INFO] Proxy Request: [1131633277] -> feeds.feedburner.com:80
+2026/01/14 15:55:50 [INFO] Proxy Request: [973807018] -> golang-examples.tumblr.com:443
+2026/01/14 15:55:55 [INFO] Proxy Request: [1000923774] -> golang-examples.tumblr.com:443
+2026/01/14 15:56:00 [INFO] Proxy Request: [1580879601] -> ads.mozilla.org:443
+2026/01/14 15:56:01 [INFO] Proxy Request: [668375570] -> www.bay12games.com:80
+2026/01/14 15:56:05 [INFO] Proxy Request: [788820866] -> medium.com:443
+2026/01/14 15:56:10 [INFO] Proxy Request: [1987623932] -> colonelcassad.livejournal.com:443
+2026/01/14 15:56:10 [INFO] Proxy Request: [1615928005] -> www.ixbt.com:80
+2026/01/14 15:56:10 [INFO] Proxy Request: [816725671] -> www.ixbt.com:80
+2026/01/14 15:56:10 [INFO] Proxy Request: [1329091559] -> hnrss.org:443
+2026/01/14 15:56:10 [INFO] Proxy Request: [1393715952] -> ads.mozilla.org:443
+2026/01/14 15:56:15 [INFO] Proxy Request: [2028964354] -> blog.codinghorror.com:443
+2026/01/14 15:56:15 [INFO] Proxy Request: [1754477741] -> github.com:443
+2026/01/14 15:56:15 [INFO] Proxy Request: [1424957494] -> github.com:443
+2026/01/14 15:56:20 [INFO] Proxy Request: [1230000503] -> www.ixbt.com:80
+2026/01/14 15:56:20 [INFO] Proxy Request: [281625584] -> www.ixbt.com:80
+2026/01/14 15:56:26 [INFO] Proxy Request: [2068250598] -> github.com:443
+2026/01/14 15:56:30 [INFO] Proxy Request: [1704097493] -> blog.codinghorror.com:443
+2026/01/14 15:56:30 [INFO] Proxy Request: [179148767] -> www.ixbt.com:80
+2026/01/14 15:56:30 [INFO] Proxy Request: [1081400841] -> www.ixbt.com:80
+2026/01/14 15:56:50 [INFO] Proxy Request: [1690286919] -> github.com:443
+2026/01/14 15:56:51 [INFO] Proxy Request: [1092229923] -> github.com:443
+2026/01/14 15:57:15 [INFO] Proxy Request: [1774848050] -> github.com:443
+2026/01/14 15:57:16 [INFO] Proxy Request: [377481926] -> github.com:443
+2026/01/14 15:57:20 [INFO] Proxy Request: [583169636] -> golang-examples.tumblr.com:443
+2026/01/14 15:57:25 [INFO] Proxy Request: [937026057] -> golang-examples.tumblr.com:443
+2026/01/14 15:57:31 [INFO] Proxy Request: [835140254] -> github.com:443
+2026/01/14 15:57:40 [INFO] Proxy Request: [1267636485] -> github.com:443
+2026/01/14 15:58:36 [FATAL] Failed to listen: listen tcp :8554: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2026/01/14 15:58:37 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:58:37 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:58:37 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/proxy
+2026/01/14 15:58:37 [INFO] Starting Tunnel Session
+2026/01/14 15:58:37 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:55529: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 15:58:44 [INFO] Proxy Request: [239584173] -> www.google.com:443
+2026/01/14 15:58:50 [INFO] Proxy Request: [1611525498] -> golang-examples.tumblr.com:443
+2026/01/14 15:58:54 [INFO] Proxy Request: [1370181170] -> www.google.com:443
+2026/01/14 15:58:55 [INFO] Proxy Request: [660526238] -> golang-examples.tumblr.com:443
+2026/01/14 15:59:00 [INFO] Proxy Request: [206260951] -> www.google.com:443
+2026/01/14 15:59:01 [INFO] Proxy Request: [998569980] -> www.google.com:443
+2026/01/14 15:59:02 [INFO] Proxy Request: [673248220] -> www.google.com:443
+2026/01/14 15:59:02 [INFO] Proxy Request: [1623209856] -> www.google.com:443
+2026/01/14 15:59:03 [INFO] Proxy Request: [108082607] -> www.google.com:443
+2026/01/14 15:59:03 [INFO] Proxy Request: [241260359] -> www.google.com:443
+2026/01/14 15:59:04 [INFO] Proxy Request: [1354125369] -> www.google.com:443
+2026/01/14 15:59:04 [INFO] Proxy Request: [1945813734] -> www.google.com:443
+2026/01/14 15:59:04 [INFO] Proxy Request: [2127505686] -> www.google.com:443
+2026/01/14 15:59:04 [INFO] Proxy Request: [1957020310] -> www.google.com:443
+2026/01/14 15:59:05 [INFO] Proxy Request: [147725877] -> www.google.com:443
+2026/01/14 15:59:05 [INFO] Proxy Request: [876120457] -> www.google.com:443
+2026/01/14 15:59:05 [INFO] Proxy Request: [687257321] -> www.google.com:443
+2026/01/14 15:59:05 [INFO] Proxy Request: [945333025] -> www.google.com:443
+2026/01/14 15:59:05 [INFO] Proxy Request: [2090866373] -> www.google.com:443
+2026/01/14 15:59:06 [INFO] Proxy Request: [81886128] -> www.google.com:443
+2026/01/14 15:59:06 [INFO] Proxy Request: [465553130] -> www.google.com:443
+2026/01/14 15:59:06 [INFO] Proxy Request: [558972136] -> www.google.com:443
+2026/01/14 15:59:19 [INFO] Proxy Request: [1474118264] -> www.google.com:443
+2026/01/14 15:59:19 [INFO] Proxy Request: [2079217417] -> www.google.com:443
+2026/01/14 15:59:29 [INFO] Proxy Request: [191671787] -> firefox.settings.services.mozilla.com:443
+2026/01/14 16:00:20 [INFO] Proxy Request: [2112872138] -> golang-examples.tumblr.com:443
+2026/01/14 16:00:25 [INFO] Proxy Request: [1080781445] -> golang-examples.tumblr.com:443
+2026/01/14 16:01:50 [INFO] Proxy Request: [640082396] -> golang-examples.tumblr.com:443
+2026/01/14 16:01:55 [INFO] Proxy Request: [726767831] -> golang-examples.tumblr.com:443
+2026/01/14 16:03:20 [INFO] Proxy Request: [1879314651] -> golang-examples.tumblr.com:443
+2026/01/14 16:03:25 [INFO] Proxy Request: [1980808848] -> golang-examples.tumblr.com:443
+2026/01/14 16:04:12 [INFO] Proxy Request: [830684245] -> aus5.mozilla.org:443
+2026/01/14 16:04:12 [INFO] Proxy Request: [592047262] -> normandy.cdn.mozilla.net:443
+2026/01/14 16:04:14 [INFO] Proxy Request: [2119201353] -> group-speed-dial.fastaddons.com:443
+2026/01/14 16:04:22 [INFO] Proxy Request: [934190776] -> normandy.cdn.mozilla.net:443
+2026/01/14 16:04:33 [INFO] Proxy Request: [1029076583] -> group-speed-dial.fastaddons.com:443
+2026/01/14 16:04:35 [INFO] Proxy Request: [592539388] -> profile.accounts.firefox.com:443
+2026/01/14 16:04:35 [INFO] Proxy Request: [1754067682] -> token.services.mozilla.com:443
+2026/01/14 16:04:35 [INFO] Proxy Request: [2044486607] -> api.accounts.firefox.com:443
+2026/01/14 16:04:50 [INFO] Proxy Request: [119961304] -> golang-examples.tumblr.com:443
+2026/01/14 16:04:55 [INFO] Proxy Request: [471366226] -> golang-examples.tumblr.com:443
+2026/01/14 16:04:56 [INFO] Proxy Request: [1762886344] -> group-speed-dial.fastaddons.com:443
+2026/01/14 16:05:28 [INFO] Proxy Request: [194630303] -> group-speed-dial.fastaddons.com:443
+2026/01/14 16:05:29 [INFO] Proxy Request: [659605362] -> sync-1-us-west1-g.sync.services.mozilla.com:443
+2026/01/14 16:05:29 [INFO] Proxy Request: [112879420] -> api.accounts.firefox.com:443
+2026/01/14 16:06:14 [INFO] Proxy Request: [1881305324] -> push.services.mozilla.com:443
+2026/01/14 16:06:15 [INFO] Proxy Request: [899514514] -> api.accounts.firefox.com:443
+2026/01/14 16:06:15 [INFO] Proxy Request: [1209964830] -> group-speed-dial.fastaddons.com:443
+2026/01/14 16:06:20 [INFO] Proxy Request: [2107320601] -> golang-examples.tumblr.com:443
+2026/01/14 16:06:25 [INFO] Proxy Request: [1511586304] -> golang-examples.tumblr.com:443
+2026/01/14 16:07:16 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:07:16 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:07:16 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:07:16 [INFO] Starting Tunnel Session
+2026/01/14 16:07:16 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:55773: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 16:07:18 [FATAL] Failed to listen: listen tcp :8554: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2026/01/14 16:07:26 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:55393: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 16:07:28 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 16:07:31 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:07:31 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:07:31 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:07:31 [INFO] Starting Tunnel Session
+2026/01/14 16:07:34 [INFO] Proxy Request: [462881847] -> group-speed-dial.fastaddons.com:443
+2026/01/14 16:07:37 [INFO] Proxy Request: [147603423] -> www.google.com:443
+2026/01/14 16:07:37 [INFO] Proxy Request: [912139111] -> www.gstatic.com:443
+2026/01/14 16:07:37 [INFO] Proxy Request: [547267311] -> fonts.gstatic.com:443
+2026/01/14 16:07:37 [INFO] Proxy Request: [1095854535] -> lh3.google.com:443
+2026/01/14 16:07:37 [INFO] Proxy Request: [2052575277] -> csp.withgoogle.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [793698144] -> lh3.googleusercontent.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [223446780] -> ogads-pa.clients6.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [1512874537] -> waa-pa.clients6.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [285529816] -> www.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [602971464] -> ogads-pa.clients6.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [821528139] -> waa-pa.clients6.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [1461318220] -> accounts.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [2072896758] -> play.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [1141506902] -> play.google.com:443
+2026/01/14 16:07:38 [INFO] Proxy Request: [544157018] -> play.google.com:443
+2026/01/14 16:07:41 [INFO] Proxy Request: [1219379152] -> ogs.google.com:443
+2026/01/14 16:07:42 [INFO] Proxy Request: [1686121874] -> ssl.gstatic.com:443
+2026/01/14 16:07:49 [INFO] Proxy Request: [1678862579] -> 2ip.io:443
+2026/01/14 16:07:49 [INFO] Proxy Request: [760316721] -> 2ip.io:443
+2026/01/14 16:07:49 [INFO] Proxy Request: [518698097] -> static.2ip.io:443
+2026/01/14 16:07:49 [INFO] Proxy Request: [298421513] -> static.2ip.io:443
+2026/01/14 16:07:49 [INFO] Proxy Request: [2091606828] -> s.luxcdn.com:443
+2026/01/14 16:07:49 [INFO] Proxy Request: [1651517533] -> www.googletagmanager.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [992618692] -> luxcdn.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [412545258] -> get-v6.2ip.io:443
+2026/01/14 16:07:50 [ERROR] Failed to dial target get-v6.2ip.io:443: dial tcp: lookup get-v6.2ip.io: no such host
+2026/01/14 16:07:50 [INFO] Proxy Request: [274180048] -> get-v6.2ip.io:443
+2026/01/14 16:07:50 [ERROR] Failed to dial target get-v6.2ip.io:443: dial tcp: lookup get-v6.2ip.io: no such host
+2026/01/14 16:07:50 [INFO] Proxy Request: [1560425066] -> luxcdn.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [2079797041] -> luxcdn.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1855424759] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [204679283] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [521008589] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1570309577] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1427673823] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1063688299] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [407370219] -> yastatic.net:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1960479332] -> golang-examples.tumblr.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [789939988] -> kimberlite.io:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [2089069072] -> hb.bumlam.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [63441571] -> kimberlite.io:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [327023323] -> ssp.al-adtech.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1990268091] -> yhb.p.otm-r.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [1045479622] -> ads.betweendigital.com:443
+2026/01/14 16:07:50 [INFO] Proxy Request: [894508534] -> ssp.hybrid.ai:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [854136631] -> favicon.yandex.net:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [302691130] -> avatars.mds.yandex.net:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [1549393304] -> avatars.mds.yandex.net:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [1498633123] -> avatars.mds.yandex.net:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [256896263] -> avatars.mds.yandex.net:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [208765481] -> analytics.google.com:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [1522123080] -> www.google-analytics.com:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [393663694] -> acint.net:443
+2026/01/14 16:07:51 [INFO] Proxy Request: [1247006325] -> exchange.buzzoola.com:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [604360121] -> x.bidswitch.net:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [1364127906] -> dm.hybrid.ai:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [1351749999] -> mc.acint.net:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [1742036059] -> favicon.yandex.net:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [2057007377] -> favicon.yandex.net:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [572574674] -> favicon.yandex.net:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [1081474250] -> px.adhigh.net:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [2079423150] -> sync.adspend.space:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [324763215] -> visitor-betweenx.omnitagjs.com:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [680086285] -> mc.yandex.md:443
+2026/01/14 16:07:52 [INFO] Proxy Request: [813280010] -> visitor-betweenx.omnitagjs.com:443
+2026/01/14 16:07:53 [INFO] Proxy Request: [697840794] -> yastatic.net:443
+2026/01/14 16:07:53 [INFO] Proxy Request: [1731167235] -> 2ip.io:443
+2026/01/14 16:08:11 [INFO] Proxy Request: [2079962628] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:11 [INFO] Proxy Request: [959244962] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:12 [INFO] Proxy Request: [1195524959] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:12 [INFO] Proxy Request: [1305988965] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:13 [INFO] Proxy Request: [807352352] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:13 [INFO] Proxy Request: [569441576] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:13 [INFO] Proxy Request: [1108198897] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:13 [INFO] Proxy Request: [818853552] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:13 [INFO] Proxy Request: [1042762826] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:14 [INFO] Proxy Request: [1961168676] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:14 [INFO] Proxy Request: [628442283] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:14 [INFO] Proxy Request: [1922576657] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:14 [INFO] Proxy Request: [1308846248] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:14 [INFO] Proxy Request: [1526405140] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:14 [INFO] Proxy Request: [1702364516] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:15 [INFO] Proxy Request: [27333267] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:15 [INFO] Proxy Request: [325227798] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:15 [INFO] Proxy Request: [1828547081] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:17 [INFO] Proxy Request: [845216966] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:18 [INFO] Proxy Request: [1287396676] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:19 [INFO] Proxy Request: [889887682] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:19 [INFO] Proxy Request: [762062417] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:19 [INFO] Proxy Request: [1200028261] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:19 [INFO] Proxy Request: [550529868] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:19 [INFO] Proxy Request: [1057445684] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:20 [INFO] Proxy Request: [251726039] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:21 [INFO] Proxy Request: [61720419] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:21 [INFO] Proxy Request: [61810778] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:21 [INFO] Proxy Request: [651058738] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:22 [INFO] Proxy Request: [1718907300] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:23 [INFO] Proxy Request: [317735907] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:23 [INFO] Proxy Request: [344632826] -> hb.bumlam.com:443
+2026/01/14 16:08:23 [INFO] Proxy Request: [1256411516] -> kimberlite.io:443
+2026/01/14 16:08:23 [INFO] Proxy Request: [444734282] -> ssp.hybrid.ai:443
+2026/01/14 16:08:23 [INFO] Proxy Request: [458335963] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:23 [INFO] Proxy Request: [1725762157] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:23 [INFO] Proxy Request: [1008083508] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:24 [ERROR] Failed to set target: use of closed network connection
+2026/01/14 16:08:24 [INFO] Proxy Request: [1197993088] -> luxcdn.com:443
+2026/01/14 16:08:26 [INFO] Proxy Request: [666839200] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:27 [INFO] Proxy Request: [750212904] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:27 [INFO] Proxy Request: [1562781761] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:27 [INFO] Proxy Request: [517310806] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:28 [INFO] Proxy Request: [993589655] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:28 [INFO] Proxy Request: [1345622354] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:29 [INFO] Proxy Request: [755992836] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:30 [INFO] Proxy Request: [874992530] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:31 [INFO] Proxy Request: [1547672746] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:32 [INFO] Proxy Request: [1008862018] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:33 [INFO] Proxy Request: [37364380] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:33 [INFO] Proxy Request: [1671482845] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:34 [INFO] Proxy Request: [780769072] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:35 [INFO] Proxy Request: [1973818040] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:37 [INFO] Proxy Request: [2080776765] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:39 [INFO] Proxy Request: [2065649420] -> server-863.2ipcore.com:8002
+2026/01/14 16:08:41 [ERROR] RTSP Read Error: read tcp 127.0.0.1:8554->127.0.0.1:55784: wsarecv: An existing connection was forcibly closed by the remote host.
+2026/01/14 16:14:56 [INFO] RTSP Tunnel Server listening on :8554
+2026/01/14 16:14:57 [INFO] Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:14:57 [INFO] Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:14:57 [INFO] Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 16:14:57 [INFO] Starting Tunnel Session
+2026/01/14 16:15:01 [INFO] Proxy Request: [1403144120] -> chat.openai.com:443
+2026/01/14 16:15:02 [INFO] Proxy Request: [1726405458] -> chatgpt.com:443
+2026/01/14 16:15:02 [INFO] Proxy Request: [1705727387] -> chatgpt.com:443
+2026/01/14 18:09:48 [INFO] RTSP Server listening on :8554 (UDP proxy on :8555, UDP tunneling via RTSP)
+2026/01/14 18:09:48 [INFO] Direct UDP Proxy listening on :8555
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62574
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: OPTIONS, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62580
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62576
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: SETUP, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62577
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62582
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62579
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62585
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62586
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62575
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62581
+2026/01/14 18:10:07 [DEBUG] RTSP Method: PLAY, URL: rtsp://127.0.0.1:8554/rtsp
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62583
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62578
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62584
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62587
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62588
+2026/01/14 18:10:07 [INFO] Starting RTSP Tunnel for 127.0.0.1:62589
+2026/01/14 18:10:09 [INFO] TCP Proxy: [1798088866] -> push.services.mozilla.com:443
+2026/01/14 18:10:09 [INFO] TCP Proxy: [411747159] -> push.services.mozilla.com:443
+2026/01/14 18:10:10 [INFO] TCP Proxy: [1998510486] -> firefox.settings.services.mozilla.com:443
+2026/01/14 18:10:11 [INFO] TCP Proxy: [1491862704] -> chatgpt.com:443
+2026/01/14 18:10:11 [INFO] TCP Proxy: [190250100] -> chatgpt.com:443
+2026/01/14 18:10:13 [INFO] TCP Proxy: [1010115325] -> chatgpt.com:443
+2026/01/14 18:10:23 [INFO] TCP Proxy: [1665772691] -> feeds.feedburner.com:80
+2026/01/14 18:10:23 [INFO] TCP Proxy: [93879345] -> www.bay12games.com:80
+2026/01/14 18:10:23 [INFO] TCP Proxy: [1783100814] -> www.reddit.com:443
+2026/01/14 18:10:23 [INFO] TCP Proxy: [1154575214] -> golangweekly.com:443
+2026/01/14 18:10:23 [INFO] TCP Proxy: [1663047359] -> cprss.s3.amazonaws.com:443
+2026/01/14 18:10:23 [INFO] TCP Proxy: [798802683] -> www.bay12games.com:80
+2026/01/14 18:10:24 [INFO] TCP Proxy: [1791526621] -> colonelcassad.livejournal.com:443
+2026/01/14 18:10:24 [INFO] TCP Proxy: [2027531284] -> www.ixbt.com:80
+2026/01/14 18:10:24 [INFO] TCP Proxy: [826603271] -> www.ixbt.com:80
+2026/01/14 18:10:24 [INFO] TCP Proxy: [647209078] -> hnrss.org:443
+2026/01/14 18:10:24 [INFO] TCP Proxy: [1543584602] -> www.ixbt.com:443
+2026/01/14 18:10:33 [INFO] TCP Proxy: [697286052] -> chatgpt.com:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [27024144] -> chatgpt.com:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [501150811] -> chatgpt.com:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [274320688] -> hnrss.org:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [1610675770] -> chatgpt.com:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [1399096827] -> chatgpt.com:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [1428401440] -> hnrss.org:443
+2026/01/14 18:10:53 [INFO] TCP Proxy: [2054157345] -> icons.duckduckgo.com:443
+2026/01/14 18:10:53 [ERROR] Failed to set target: use of closed network connection
+2026/01/14 18:10:53 [ERROR] Failed to set target: use of closed network connection
+2026/01/14 18:10:53 [ERROR] Failed to set target: use of closed network connection
+2026/01/14 18:10:54 [INFO] TCP Proxy: [1967014434] -> chatgpt.com:443
+2026/01/14 18:10:56 [INFO] TCP Proxy: [1720302702] -> chatgpt.com:443
+2026/01/14 18:10:58 [INFO] TCP Proxy: [838437808] -> chatgpt.com:443
+2026/01/14 18:11:02 [INFO] TCP Proxy: [452407694] -> chatgpt.com:443
+2026/01/14 18:11:03 [INFO] TCP Proxy: [436804324] -> ads.mozilla.org:443
+2026/01/14 18:11:05 [INFO] TCP Proxy: [390837352] -> 2ip.io:443
+2026/01/14 18:11:06 [INFO] TCP Proxy: [1128304118] -> 2ip.io:443
+2026/01/14 18:11:06 [INFO] TCP Proxy: [1043990456] -> s.luxcdn.com:443
+2026/01/14 18:11:06 [INFO] TCP Proxy: [1673541046] -> www.googletagmanager.com:443
+2026/01/14 18:11:06 [INFO] TCP Proxy: [1142050954] -> get-v6.2ip.io:443
+2026/01/14 18:11:06 [ERROR] Failed to dial target get-v6.2ip.io:443: dial tcp: lookup get-v6.2ip.io: no such host
+2026/01/14 18:11:06 [INFO] TCP Proxy: [2010631241] -> get-v6.2ip.io:443
+2026/01/14 18:11:06 [ERROR] Failed to dial target get-v6.2ip.io:443: dial tcp: lookup get-v6.2ip.io: no such host
+2026/01/14 18:11:06 [INFO] TCP Proxy: [730948225] -> 2ip.io:443
+2026/01/14 18:11:06 [INFO] TCP Proxy: [1904109511] -> luxcdn.com:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [716503888] -> yastatic.net:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [248136706] -> yastatic.net:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [1356197871] -> yastatic.net:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [251582889] -> yastatic.net:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [55276040] -> yastatic.net:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [432971992] -> kimberlite.io:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [1807891704] -> hb.bumlam.com:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [1908142901] -> yhb.p.otm-r.com:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [336792701] -> kimberlite.io:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [870243933] -> ssp.al-adtech.com:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [1043664181] -> ssp.hybrid.ai:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [758117336] -> ads.betweendigital.com:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [225875779] -> cmr.bidderstack.com:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [1189189792] -> stats.g.doubleclick.net:443
+2026/01/14 18:11:07 [INFO] TCP Proxy: [2050494077] -> analytics.google.com:443
+2026/01/14 18:11:08 [INFO] TCP Proxy: [325630086] -> ads.betweendigital.com:443
+2026/01/14 18:11:08 [INFO] TCP Proxy: [609514001] -> acint.net:443
+2026/01/14 18:11:08 [INFO] TCP Proxy: [274777318] -> avatars.mds.yandex.net:443
+2026/01/14 18:11:08 [INFO] TCP Proxy: [1953500321] -> favicon.yandex.net:443
+2026/01/14 18:11:08 [INFO] TCP Proxy: [382969594] -> px.adhigh.net:443
+2026/01/14 18:11:09 [INFO] TCP Proxy: [437906092] -> sync.dmp.otm-r.com:443
+2026/01/14 18:11:09 [INFO] TCP Proxy: [1269614330] -> mc.acint.net:443
+2026/01/14 18:11:09 [INFO] TCP Proxy: [603382033] -> cmr.bidderstack.com:443
+2026/01/14 18:11:09 [INFO] TCP Proxy: [1017972225] -> match.ohmy.bid:443
+2026/01/14 18:21:49 [INFO] RTSP Server listening on :8554 (UDP proxy on :8555, UDP tunneling via RTSP)
+2026/01/14 18:21:49 [INFO] Direct UDP Proxy listening on :8555
+2026/01/14 18:28:55 [INFO] RTSP Server listening on :8554 (UDP proxy on :8555, UDP tunneling via RTSP)
+2026/01/14 18:28:55 [INFO] Direct UDP Proxy listening on :8555
+2026/01/14 18:29:40 [INFO] Direct UDP Proxy listening on :8554
+2026/01/14 18:29:40 [INFO] RTSP Server listening on :8554 (UDP proxy on :8554, UDP tunneling via RTSP)
